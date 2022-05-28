@@ -20,7 +20,6 @@ include "cn.php";
     <script src="script.js"></script>
     <script src="script.responsive.js"></script>
 
-
 <style>
 .art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
 .art-content .art-postcontent-0 .layout-item-1 { padding-right: 10px;padding-left: 8px;  }
