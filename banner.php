@@ -10,9 +10,9 @@
     <link rel="stylesheet" href="style.responsive.css" media="all">
 
 
-    <script src="jquery.js"></script>
-    <script src="script.js"></script>
-    <script src="script.responsive.js"></script>
+    <script src="jquery.js"> </script>
+    <script src="script.js"> </script>
+    <script src="script.responsive.js"> </script>
 
 
 <style>
