@@ -9,3 +9,4 @@ unset($_SESSION['fullname']);
 window.location="banklogin.php";
 	
 </script>
+
